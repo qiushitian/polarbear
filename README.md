@@ -1,6 +1,6 @@
 # Polarbear, the simplistic reduction scripts for ARCTIC on the APO 3.5m telescope
 
-*"How boring would the arctic be if there were no polarbears!"* —Chris
+*"How boring would the arctic be if there were no polar bears!"* —Chris
 
 Author: Qiushi (Chris) Tian
 
